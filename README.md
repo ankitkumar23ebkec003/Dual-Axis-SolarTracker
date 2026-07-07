@@ -38,3 +38,14 @@ The LDR sensors sense sunlight from different directions. Arduino compares the s
 ## Project Status
 Completed
 ## Project Images
+### Front View
+![Front View](Image 2026-07-07 at 3.12.11 PM (1).jpg)
+
+### Side View
+![Side View](side.jpg)
+
+### Wiring
+![Wiring](wiring.jpg)
+
+### Final Project
+![Final Project](final.jpg)
