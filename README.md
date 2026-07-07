@@ -38,11 +38,3 @@ The LDR sensors sense sunlight from different directions. Arduino compares the s
 ## Project Status
 Completed
 ## Project Images
-
-![Solar Tracker Front View](jpg)
-
-![Side View](.jpg)
-
-![Arduino and Wiring Setup](.jpg)
-
-![Final Project Setup](.jpg)
